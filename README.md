@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vahidinj
-- 👀 I’m interested in coding (python in particular), ethical hacking, and data analysis/science
-- 🌱 I’m currently learning python programing and ethical hacking
+- 👀 I’m interested in data science and alnalysis
+- 🌱 I’m always learing
 - 💞️ I’m looking to collaborate on anything really :)
 - 📫 How to reach me deanjx2015@gmail.com
 - ⚡ Fun fact: Marine, War refugee, Physics Masters, Operations Research Analyst, life loving, and a continuous learner.
