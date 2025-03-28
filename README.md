@@ -3,7 +3,7 @@
 - 🌱 I’m always learning
 - 💞️ I’m looking to collaborate on anything really :)
 - 📫 How to reach me deanjx2015@gmail.com
-- ⚡ Fun fact: Marine, War refugee, Physics Masters, Operations Research Analyst, life loving, and a continuous learner.
+- ⚡ Fun fact: Data Scientist, Marine, War refugee, Physics, Operations Research Analyst, life loving, and a continuous learner.
 
 
 <!---
