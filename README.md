@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @vahidinj
-- 👀 I’m interested in data science and alnalysis
+- 👀 I’m interested in data science and python programming 
 - 🌱 I’m always learning
 - 💞️ I’m looking to collaborate on anything really :)
 - 📫 How to reach me deanjx2015@gmail.com
